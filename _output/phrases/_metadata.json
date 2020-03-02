@@ -1,0 +1,62 @@
+{
+    "option.UuidFrom.txt": {
+        "global_cache": false,
+        "version_id": 4,
+        "version_string": "1.0.0 Alpha",
+        "hash": "8ba4e1f84cbcc346a2ea9bd7f4cfc04d"
+    },
+    "option.signaturePublickey.txt": {
+        "global_cache": false,
+        "version_id": 4,
+        "version_string": "1.0.0 Alpha",
+        "hash": "c030922a68f00edd1e701fc02990adfb"
+    },
+    "option.signatureSecretkey.txt": {
+        "global_cache": false,
+        "version_id": 4,
+        "version_string": "1.0.0 Alpha",
+        "hash": "11d1c50cf99fedfa4cb3db823bc392b1"
+    },
+    "option.skinDomains.txt": {
+        "global_cache": false,
+        "version_id": 4,
+        "version_string": "1.0.0 Alpha",
+        "hash": "b406624ea84f01eb6dac85a42e13f0bd"
+    },
+    "option_explain.UuidFrom.txt": {
+        "global_cache": false,
+        "version_id": 4,
+        "version_string": "1.0.0 Alpha",
+        "hash": "fc300e9c40de8cde7ad7a34ad5cc270b"
+    },
+    "option_explain.signaturePublickey.txt": {
+        "global_cache": false,
+        "version_id": 4,
+        "version_string": "1.0.0 Alpha",
+        "hash": "c030922a68f00edd1e701fc02990adfb"
+    },
+    "option_explain.signatureSecretkey.txt": {
+        "global_cache": false,
+        "version_id": 4,
+        "version_string": "1.0.0 Alpha",
+        "hash": "11d1c50cf99fedfa4cb3db823bc392b1"
+    },
+    "option_explain.skinDomains.txt": {
+        "global_cache": false,
+        "version_id": 4,
+        "version_string": "1.0.0 Alpha",
+        "hash": "b406624ea84f01eb6dac85a42e13f0bd"
+    },
+    "option_group.XenforoLogin.txt": {
+        "global_cache": false,
+        "version_id": 4,
+        "version_string": "1.0.0 Alpha",
+        "hash": "55e7c1a6f4b7af8672ddc46454ac4ba4"
+    },
+    "option_group_description.XenforoLogin.txt": {
+        "global_cache": false,
+        "version_id": 4,
+        "version_string": "1.0.0 Alpha",
+        "hash": "55e7c1a6f4b7af8672ddc46454ac4ba4"
+    }
+}
