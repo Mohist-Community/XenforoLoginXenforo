@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<routes>
+  <route route_type="api" route_prefix="authlib" sub_name="Xedsadsdfdsfewrgfhgf" format="sessionserver/session/minecraft/profile/:str&lt;uuid&gt;" controller="XenforoLoginXenforo:ProfileController"/>
+  <route route_type="api" route_prefix="authlib" sub_name="XenforoLoginAuthenticate" format="authserver/authenticate" controller="XenforoLoginXenforo:AuthenticateController"/>
+  <route route_type="api" route_prefix="authlib" sub_name="XenforoLoginAuthlib" controller="XenforoLoginXenforo:XenforoLogin"/>
+  <route route_type="api" route_prefix="authlib" sub_name="XenforoLoginHasJoined" format="sessionserver/session/minecraft/hasJoined" controller="XenforoLoginXenforo:HasJoinedController"/>
+  <route route_type="api" route_prefix="authlib" sub_name="XenforoLoginInvalidate" format="authserver/invalidate" controller="XenforoLoginXenforo:InvalidateController"/>
+  <route route_type="api" route_prefix="authlib" sub_name="XenforoLoginSignout-" format="authserver/signout" controller="XenforoLoginXenforo:SignoutController"/>
+  <route route_type="api" route_prefix="authlib" sub_name="XenforoLoginValidate" format="authserver/validate" controller="XenforoLoginXenforo:ValidateController"/>
+  <route route_type="api" route_prefix="authlib" sub_name="frrffffbfbfbffbabdff" format="authserver/refresh" controller="XenforoLoginXenforo:RefreshController"/>
+  <route route_type="api" route_prefix="authlib" sub_name="rg5555555555555555555555555555" format="sessionserver/session/minecraft/join" controller="XenforoLoginXenforo:JoinController"/>
+</routes>

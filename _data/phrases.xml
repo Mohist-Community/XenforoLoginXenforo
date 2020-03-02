@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="option.UuidFrom" version_id="4" version_string="1.0.0 Alpha"><![CDATA[should ramdom uuid]]></phrase>
+  <phrase title="option.signaturePublickey" version_id="4" version_string="1.0.0 Alpha"><![CDATA[signaturePublickey]]></phrase>
+  <phrase title="option.signatureSecretkey" version_id="4" version_string="1.0.0 Alpha"><![CDATA[signatureSecretkey]]></phrase>
+  <phrase title="option.skinDomains" version_id="4" version_string="1.0.0 Alpha"><![CDATA[skinDomains]]></phrase>
+  <phrase title="option_explain.UuidFrom" version_id="4" version_string="1.0.0 Alpha"><![CDATA[UuidFrom]]></phrase>
+  <phrase title="option_explain.signaturePublickey" version_id="4" version_string="1.0.0 Alpha"><![CDATA[signaturePublickey]]></phrase>
+  <phrase title="option_explain.signatureSecretkey" version_id="4" version_string="1.0.0 Alpha"><![CDATA[signatureSecretkey]]></phrase>
+  <phrase title="option_explain.skinDomains" version_id="4" version_string="1.0.0 Alpha"><![CDATA[skinDomains]]></phrase>
+  <phrase title="option_group.XenforoLogin" version_id="4" version_string="1.0.0 Alpha"><![CDATA[XenforoLogin]]></phrase>
+  <phrase title="option_group_description.XenforoLogin" version_id="4" version_string="1.0.0 Alpha"><![CDATA[XenforoLogin]]></phrase>
+</phrases>
