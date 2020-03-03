@@ -7,6 +7,8 @@
   <route route_type="api" route_prefix="authlib" sub_name="XenforoLoginInvalidate" format="authserver/invalidate" controller="XenforoLoginXenforo:InvalidateController"/>
   <route route_type="api" route_prefix="authlib" sub_name="XenforoLoginSignout-" format="authserver/signout" controller="XenforoLoginXenforo:SignoutController"/>
   <route route_type="api" route_prefix="authlib" sub_name="XenforoLoginValidate" format="authserver/validate" controller="XenforoLoginXenforo:ValidateController"/>
+  <route route_type="api" route_prefix="authlib" sub_name="bhfchvvbnbbervdv3222222222222222222222" format="api/profiles/minecraft" controller="XenforoLoginXenforo:MinecraftController"/>
   <route route_type="api" route_prefix="authlib" sub_name="frrffffbfbfbffbabdff" format="authserver/refresh" controller="XenforoLoginXenforo:RefreshController"/>
+  <route route_type="api" route_prefix="authlib" sub_name="rg5555555555555555555555" format="api/users/profiles/minecraft/:str&lt;username&gt;" controller="XenforoLoginXenforo:MinecraftController"/>
   <route route_type="api" route_prefix="authlib" sub_name="rg5555555555555555555555555555" format="sessionserver/session/minecraft/join" controller="XenforoLoginXenforo:JoinController"/>
 </routes>

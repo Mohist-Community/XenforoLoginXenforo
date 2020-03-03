@@ -44,6 +44,9 @@ class AuthlibController extends AbstractController
         $db=\XF::db();
         $result=$db->fetchRow(
             'SELECT * FROM `xf_user` WHERE `user_id`=?;',$user_id);
+        if(!$result){
+            return null;
+        }
         if(!$result['uuid']){
             if(\XF::options()['UuidFrom']){
                 $result['uuid']=$this->uuid_create();

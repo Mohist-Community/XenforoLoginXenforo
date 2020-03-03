@@ -36,8 +36,16 @@ class Setup extends AbstractSetup
         });
         $this->schemaManager()->alterTable('xf_user', function(Alter $table)
         {
-            $table->addColumn('uuid', 'char', 32);
-            $table->addColumn('skin', 'int')->setDefault(1);
+            $table->addColumn('uuid', 'char', 32)->nullable();
+            $table->addColumn('skin', 'int')->setDefault(1)->nullable();
+        });
+    }
+    public function upgrade(array $stepParams = [])
+    {
+        $this->schemaManager()->alterTable('xf_user', function(Alter $table)
+        {
+            $table->changeColumn('uuid')->nullable();
+            $table->changeColumn('skin')->nullable();
         });
     }
     public function uninstall(array $stepParams = [])
